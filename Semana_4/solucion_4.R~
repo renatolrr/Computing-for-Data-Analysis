@@ -7,6 +7,3 @@ print(num)
 source("agecount.R")
 agecount(3)
 agecount(21)
-
-
-#estructura Xiaodan
